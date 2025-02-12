@@ -1,4 +1,4 @@
-# M_ChaosMod
+# ChaosMod
 ## Chaos mod for The Long Drive
 
 Features:
